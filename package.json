@@ -1,0 +1,14 @@
+{
+  "name": "express001",
+  "version": "1.0.0",
+  "description": "RESTApi Node Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon Hagi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
